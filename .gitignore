@@ -1,0 +1,10 @@
+# Data files (too large for GitHub)
+Datasets/
+*.csv
+*.parquet
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+venv/
+
