@@ -214,7 +214,7 @@ curl -X POST "http://localhost:8000/predict" \
     "expected_window_days": 30,
     "seller_hist_delay_median_10": 10.0
   }'
-
+```
 
 ---
 
